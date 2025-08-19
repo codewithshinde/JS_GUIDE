@@ -1,5 +1,3 @@
-# 📌 Hoisting in JavaScript
-
 ## 🔹 What is Hoisting?
 
 * **Hoisting** is JavaScript’s default behavior of moving **declarations** to the top of their scope (global or function scope).
