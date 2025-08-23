@@ -1,4 +1,4 @@
-# 📌 Pure Functions in JavaScript
+# Pure Functions
 
 ## 🔹 Definition
 

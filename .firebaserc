@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "karthikshindeee"
+  },
+  "targets": {
+    "karthikshindeee": {
+      "hosting": {
+        "js-by-kshinde": [
+          "js-by-kshinde"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

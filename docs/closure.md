@@ -1,3 +1,5 @@
+# Closures
+
 ## 🔹 What is a Closure?
 
 A **closure** is created when a function **remembers variables from its lexical scope**, even after the outer function has finished executing.

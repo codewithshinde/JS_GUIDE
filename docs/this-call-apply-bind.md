@@ -1,4 +1,4 @@
-# 📌 `this`, `call`, `apply`, and `bind` in JavaScript
+# `this`, `call`, `apply`, and `bind` in JavaScript
 
 ---
 

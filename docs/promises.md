@@ -1,4 +1,4 @@
-# Promises in JavaScript — Crisp Notes
+# Promises
 
 ## 1) What is a Promise?
 
