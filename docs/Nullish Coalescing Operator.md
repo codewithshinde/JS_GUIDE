@@ -1,4 +1,4 @@
-# 📘 Notes on Nullish Coalescing Operator (`??`)
+# Nullish Coalescing Operator (`??`)
 
 ### 🔹 What is `??` ?
 
